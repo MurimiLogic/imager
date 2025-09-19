@@ -1,4 +1,3 @@
-# imager
 # Ubuntu Image Fetcher
 
 A Python script for securely and efficiently downloading images from the web while respecting community guidelines and network resources.
